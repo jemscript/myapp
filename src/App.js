@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          REACT JS UPLOADING TO NETLIFY
         </a>
       </header>
     </div>
